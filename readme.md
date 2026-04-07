@@ -55,46 +55,46 @@ examen-ccse/
 **Login**
 
 <img src="img/login.png" alt="Formulario de login">
-<br><br>
+<br>
 
 **Registro**
 
 <img src="img/registro.png" alt="Formulario de registro">
-<br><br>
+<br>
 
 **Inicio**
 
 <img src="img/inicio.png" alt="Vista de inicio">
-<br><br>
+<br>
 
 **Perfil de usuario**
 
 <img src="img/perfil.png" alt="Perfil de usuario">
-<br><br>
+<br>
 
 **Exámenes**
 
 <img src="img/exámenes.png" alt="Vista de exámenes">
-<br><br>
+<br>
 
 **Exámen**
 
 <img src="img/exámen.png" alt="Vista de exámen">
-<br><br>
+<br>
 
 **Aprobado**
 
 <img src="img/aprobado.png" alt="Vista de aprobado">
-<br><br>
+<br>
 
 **Desaprobado**
 
 <img src="img/desaprobado.png" alt="Vista de desaprobado">
-<br><br>
+<br>
 
 
 **Resultados**
 
 <img src="img/resultados.png" alt="Resultados de exámenes">
-<br><br>
+<br>
 
